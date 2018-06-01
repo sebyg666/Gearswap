@@ -9,7 +9,6 @@ function get_sets()
 
     -- Load and initialize the include file.
     include('Seb-Include.lua')
-	
 
 end
 
